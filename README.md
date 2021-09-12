@@ -1,7 +1,7 @@
 # info-2950-project
-This is a semester-long project from Introduction to Data Science, a class I took in Fall 2020. The other students I worked with are Teddy Klausner, Spencer Pettee, Sasha Miranda
+This is a semester-long project from Introduction to Data Science, a class I took in Fall 2020. The other students I worked with are Teddy Klausner, Spencer Pettee, Sasha Miranda.
 
-In this project we wanted to work with multiple data sets, so we decided chose internet data and food expenditure data across countries. As online food delivery services become more popular, we wanted to explore the connection between internet and food expenditure. The first step was to clean both data files. After both files were clean and ready to work with we merged them based on country. Another goal was discovering how factors impact internet quality by country. To do this we built a multiple regression model which told us that some of the most important factors on internet quality are. 
+In this project, we wanted to work with multiple data sets, so we chose internet data and food expenditure data across countries. As online food delivery services become more popular, we wanted to explore the connection between internet and food expenditure. The first step was to clean both data files. After both files were clean and ready to work with we merged them based on country. Another goal was discovering how factors impact internet quality by country. To do this we built a multiple regression model which told us that some of the most important factors on internet quality are. 
 
 **Research Question 1: By country, is there any correlation between food expenditure and various factors having to do with the internet?**
 
