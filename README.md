@@ -1,5 +1,5 @@
 # info-2950-project
-##### Other authors: Teddy Klausner, Spencer Pettee, Sasha Miranda
+#### Other authors: Teddy Klausner, Spencer Pettee, Sasha Miranda
 
 In this project we wanted to work with multiple data sets, so we decided chose internet data and food expenditure data across countries. As online food delivery services become more popular, we wanted to explore the connection between internet and food expenditure. The first step was to clean both data files. After both files were clean and ready to work with we merged them based on country. Another goal was discovering how factors impact internet quality by country. To do this we built a multiple regression model which told us that some of the most important factors on internet quality are. 
 
