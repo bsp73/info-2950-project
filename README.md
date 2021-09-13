@@ -28,7 +28,7 @@ We used BIC and AIC to determine which columns (AKA variables or predictors) tha
 
 We then checked if there were any polynomial terms that were significant by squaring the significant predictors and adding them to the model. The squares were not significant but we then tested interactions between each predictor in case of covariance, which was done by multiplying each predictor with each other and adding them to the model. We found one interaction to be significant which was the interaction between availability of information in the local language with government efforts to promote 5g. We dropped the rest of the interactions and ran the regression one more time which included the added interaction. 
 
-The result was a 9 feature multiple regression model that we can use to estimate a country’s web accessibility. Although it’s not causal, since we confirmed that the correlation is strong (R-squared of 0.83), we can rely on this model to predict web accessibility of a country. This means we could use the model to help countries improve their web accessibility by improving the significant predictors.
+The result was a 8 feature multiple regression model that we can use to estimate a country’s web accessibility (Bandwidth capacity, Cell phone cost, Availability of information in the local language, Value of e-finance, Support for digital literacy, Technology-neutrality policy for spectrum use, and Government efforts to promote 5g, EIU Business Ranking). Although it’s not causal, since we confirmed that the correlation is strong (R-squared of 0.83), we can rely on this model to estimate web accessibility of a country.
 
 
 
